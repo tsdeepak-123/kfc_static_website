@@ -1,0 +1,331 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+.div1{
+    height: 44px;
+    background-color: white;
+}
+.line{
+    position: relative;
+    top: 44px;
+}
+.button1{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    border-radius: 22px;
+    width: 99px;
+    height: 32px;
+    font-weight: 400;
+    margin-left: 60%;
+    margin-top: -7px;
+}
+.button1:hover{
+    cursor: pointer;
+}
+.location{
+    position: absolute;
+    left: 36%;
+    top: 18px;
+    font-family: sans-serif;
+    FONT-SIZE: 14PX;
+}
+.div2{
+    height: 100px;
+    background-color: white;
+
+}
+.location-logo{
+position: absolute;
+left: 34%;
+top: 15px;
+}
+.div2 a{
+    font-weight: bold;
+    font-size: 14px;
+    position: absolute;
+    left: 83%;
+    top: 98px;
+    color: black;
+    font-family: sans-serif;
+}
+.div2 a:hover{
+    cursor: pointer;
+}
+.div2 b{
+    width: 52px;
+    height: 50px;
+    position: absolute;
+    left: 89%;
+    top: 81px;
+}
+.div2 b:hover{
+    cursor: pointer;
+}
+.div2 c{
+    position: absolute;
+    left: 81%;
+    top: 96px;
+} 
+.div2 c:hover{
+    cursor: pointer;
+}
+.div3{
+    background-color: black;
+    height: 68px;
+}
+.kfc{
+    padding-left: 130px;
+    padding-top: 41px;
+}
+.kfc:hover{
+    cursor: pointer;
+}
+.menubar{
+float: left;
+padding-left: 50px;
+position: relative;
+left: 200px;
+top: -25px;
+font-family: sans-serif;
+font-size: 14px;
+}
+.menubar:hover{
+    cursor: pointer;
+}
+.text{
+ font-weight: 700;
+color: white;
+font-family: sans-serif;
+position: relative;
+left: 31%;
+top: 1px;
+font-size: 16px;
+letter-spacing: .5px;
+line-height: 20px;
+word-spacing: 1px;
+}
+.button2{
+    background-color: rgb(239, 10, 10);
+    color: white;
+    font-size: 17px;
+    border-radius: 22px;
+    width: 146px;
+    height: 46px;
+    margin-left: 33%;
+    margin-top: 12px;
+    font-family: sans-serif;
+    border: 0ch;
+}
+.button2:hover{
+    cursor: pointer;
+}
+.div4{
+    height: 142px;
+    background-color: #f8f7f5;
+    
+}
+.pastorder-stripes{
+width: 40px;
+height: 20px;
+background: repeating-linear-gradient(90deg,#e4002b,#e4002b 8px,#fff 0,#fff 16px);
+position: absolute;
+left: 200px;
+}
+.welcome{
+    font-size: 44px;
+    color: black;
+    font-weight: 900;
+    font-family: sans-serif;
+    position: absolute;
+    left: 195px;
+    top: 281px;
+    font-stretch: condensed;
+}
+.linediv{
+    width: 55%;
+    height: 1px;
+    background-color: black;
+    position: absolute;
+    left: 40%;
+    top: 500px;
+}
+.browse{
+    font-size: 33px;
+    letter-spacing: -2.5px;
+    position: absolute;
+    left: 268px;
+    top: 478px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.imagetable img{
+    width: 268.8px;
+    height: 199px;
+    object-fit: cover;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-bottom: 90px;
+}
+.imagetable{
+    margin-left: 268px;
+    margin-top: 200px;
+}
+.imagetable:hover{
+    cursor: pointer;
+}
+.texttable td{
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-left: 150px;
+    padding-bottom: 275px;
+    font-weight: bold;
+}
+.texttable td:hover{
+    color: red;
+    cursor: pointer;
+}
+.texttable{
+    border: 0ch;
+    margin-left: 201px;
+    margin-top: -376px;
+    
+}
+.div5{
+    height: 654px;
+}
+.div6{
+    width: 1536px;
+    height: 672.91px;
+    background-color: #202124;
+   
+
+   
+}
+.subdiv{
+    width: 310px;
+    height: 398px;
+    background-color: white;
+    border-radius: 10px;
+    
+    
+}
+.subdiv:hover{
+    transform: scale(1.1);
+}
+.footimage{
+    width: 310px;
+    height: 234px;
+    position: relative;
+    top: -1px;
+    left: 0px;
+   border-radius: 10px;
+}
+.subdivmain{
+    width: 1069px;
+    height: 398px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 182px;
+    margin-left: 226px;
+  
+
+}
+.pastorder-stripes2{
+    width: 40px;
+    height: 40px;
+    background: repeating-linear-gradient(90deg,#e4002b,#e4002b 8px,#fff 0,#fff 16px);
+    margin-left: 220px;
+    margin-top: -49px;
+  
+}
+.buttonf1{
+    display: flex;
+    border-radius: 29px;
+    background-color:#fff;
+    color: black;
+    width: 133px;
+    height: 51px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 29%;
+    margin-top: 59px;
+    padding-left: 37px;
+    padding-top: 15px;
+}
+.buttonf1:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    
+}
+.div6 a{
+    font-size: 40px;
+    color: white;
+    position: relative;
+    top: 121px;
+    left: 229px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.footer{
+    width: 1536px;
+    height: 391px;
+    background-color: #202124;
+}
+.footer a{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: gray;
+    margin-left: 551px;
+    position: relative;
+    top: 199px;
+}
+.footpoints{
+display: flex;
+flex-direction: column;
+color: gray;
+font-size: 17px;
+list-style: none;
+}
+.footpoints li:hover{
+    cursor: pointer;
+}
+.footbox{
+    display: flex;
+    flex-direction: row;
+    width: 700.6px;
+    height: 250px;
+    justify-content: space-between;
+   position: relative;
+   left: 228px;
+   top: -54px;
+}
+.footlogo{
+    position: relative;
+    left: 119px;
+    top: 132px;
+}
+.footlogo:hover{
+    cursor: pointer;
+}
+.icons{
+    position: relative;
+    top: 48px;
+    left: -70px;
+}
+.footicons{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 1058px;
+    justify-content: center;
+}
+.footicons li{
+    margin-left: 30px;
+}
+.footicons li:hover{
+    cursor: pointer;
+}
